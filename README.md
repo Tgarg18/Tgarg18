@@ -10,7 +10,7 @@
 
 <div align="center">
 You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br> <br>
 Ask me anything <a href="https://github.com/Tgarg18/Tgarg18/issues/new"><b>here</b></a><br>
 or <a href="tushargarg70091@gmail.com"><b>email</b></a> me
 <i>Happy Coding!</i> 😊

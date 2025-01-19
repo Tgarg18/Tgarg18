@@ -4,7 +4,7 @@
 
 <br>
   <div align="center" width="50">
-    <img src="https://i.imgur.com/WWFEyET.gif" alt="Welcome" width="400">
+    <img src="https://res.cloudinary.com/wittywebcloud/image/upload/v1737294866/final_yy1qoq.gif" alt="Welcome" width="400">
   </div>
 <br>
 
